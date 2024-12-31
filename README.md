@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chris-troupe
-- 👀 I’m interested in web development, learning new languages, and machine learning
-- 🌱 I’m currently learning Ruby on Rails and AWS
-- 💞️ I’m looking to collaborate on any project that seems interesting
+- I’m interested in anything technology-related.
+- I’m looking to collaborate on any project that seems interesting
 - 📫 How to reach me LinkedIn at https://www.linkedin.com/in/christroupe/
 
 <!---
